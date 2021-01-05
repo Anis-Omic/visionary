@@ -10,7 +10,7 @@
     "@types/react-dom": "16.8.2",
     "@types/react-router-dom": "^4.3.1",
     "@types/toastr": "^2.1.36",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "msal": "^0.2.4",
     "react": "16.6.0",
     "react-datepicker": "^2.3.0",
